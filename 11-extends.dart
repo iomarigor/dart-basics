@@ -27,7 +27,7 @@ abstract class Personaje {
 class Heroe extends Personaje {
  
    int valentia = 100;
-  
+  // optener valor de constructor de la clase padre
    Heroe( String nombre ): super( nombre );
   
 }
