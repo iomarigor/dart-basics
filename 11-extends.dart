@@ -10,6 +10,7 @@ void main() {
 
 
 abstract class Personaje {
+    //String opcional
   String? poder;
   String nombre;
   
